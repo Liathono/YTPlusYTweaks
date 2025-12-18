@@ -50,7 +50,7 @@ on:
         description: "Integrate YTIcons"
         type: boolean
         required: true
-        default: true
+        default: false
 
       ipa_url:
         description: "URL to the decrypted IPA file"
