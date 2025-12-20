@@ -1,12 +1,18 @@
 # YouTube Plus (YTweaks Fork)
-A flexible enhancer for YouTube on iOS, featuring over hundred customizable options. 
+[YouYube Plus](https://github.com/dayanch96/YTLite) with added plugins.
 
-This fork adds more tweak options when building with GitHub actions. No changes are made to the YouTube Plus .deb itself, just the tweaks that get packaged with it. 
+This fork focuses on adding more tweak options when building with GitHub actions, specificially [YTweaks](https://github.com/fosterbarnes/YTweaks) No changes are made to the YouTube Plus .deb itself, just the tweaks that get packaged with it. 
+
+YTweaks added settings:
+- **Fullscreen to the right or left:** Locks fullscreen orientation.
+- **Disable floating miniplayer:** Restores the old miniplayer by disabling the floating miniplayer.
+- **Virtual fullscreen bezels:** Adds invisible touch-safe zones on black bars to prevent accidental taps and skips.
+
 
 Added tweaks:
+- [YTweaks](https://github.com/fosterbarnes/YTweaks)
 - [YTABConfig](https://github.com/PoomSmart/YTABConfig)
 - [YTIcons](https://github.com/PoomSmart/YTIcons)
-- [YTweaks](https://github.com/fosterbarnes/YTweaks)
 - [YouGroupSettings](https://github.com/fosterbarnes/YouGroupSettings)
 
 Original repo: https://github.com/dayanch96/YTLite
